@@ -1,0 +1,7 @@
+*~~< Patient Exam Report >~~*
+
+Name           Patient Id  Exam1  Exam2  Exam3  AVG       Pos/Neg   
+----           ----------  -----  -----  -----  -----     -------   
+Lewis,Rose     1111        23.00  23.00  23.00  23.00     Neg       
+
+*< end of report >*

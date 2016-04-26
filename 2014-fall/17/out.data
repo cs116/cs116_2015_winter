@@ -1,0 +1,17 @@
+
+*~~< Stud Exam Report >~~*
+Name          Stud ID Gender Exam1  Exam2  Exam3  AVG    Grade
+Lewis, Rose   1111    F      75.00  80.00  70.00  75.00  C
+Weber, Mark   7821    M      70.00  69.00  69.00  69.33  C
+Runer, Jon    9102    M      97.00  97.00  97.00  97.00  A
+Sooner, Ali   8888    M      -1.00  0.00   100.00 ~~ Invalid data ~~
+Loop, Lili    3456    F      88.00  88.00  88.00  88.00  B
+Mean of All AVG = 82.33
+Invalid Data: % 20.00
+Valid Data: % 80.00
+Number Of Passed: 0
+Number Of Failed: 0
+Number Of Top: 0
+
+< end >
+

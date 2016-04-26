@@ -1,0 +1,7 @@
+*~~< Patient Exam Report >~~*
+
+Patient Name	Patient ID	Exam1	Exam2	Exam3	AVG	Pos/Neg
+------------	----------	-----	-----	-----	---	-------
+Sooner,Ali	8888		-1	0.01	100~~ Invalid data~~
+
+*< End of Report >*
